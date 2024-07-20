@@ -1,4 +1,4 @@
 ## Languages and Tools
-- Tailwind
+- TypeScript
 - CSS
 - HTML
