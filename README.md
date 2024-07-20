@@ -1,6 +1,4 @@
 ## Languages and Tools
-- JavaScript
-- React.js
-- Node.js
+- Tailwind
 - CSS
 - HTML
